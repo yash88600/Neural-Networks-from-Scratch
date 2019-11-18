@@ -1,7 +1,7 @@
 # Neural-Networks-from-Scratch
 Implementing Neural Networks from Scratch
 
-dataset used - MNIST Dataset(Handwritten number detection)
+dataset used - MNIST Dataset(Handwritten number detection) link: https://www.kaggle.com/c/digit-recognizer/data
 
 optimizer used - Adam Optimzier
 
