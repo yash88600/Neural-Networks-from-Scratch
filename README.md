@@ -7,7 +7,7 @@ optimizer used - Adam Optimzier
 
 Regularization used - Dropout Regularization 
 
-learning rate - 0.01
+learning rate - 0.1
 
 Dropout Parameter = 0.9
 
